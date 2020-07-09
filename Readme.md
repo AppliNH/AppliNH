@@ -29,37 +29,69 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 ### Mobile
 
 ![80%](https://progress-bar.dev/80) **React Native**
+
+
 ![70%](https://progress-bar.dev/70) **Flutter**
+
+
 ![40%](https://progress-bar.dev/40) **Kotlin**
 
 ### Front-end
 
 ![70%](https://progress-bar.dev/70) **React**
+
+
 ![60%](https://progress-bar.dev/60) **Angular**
 
 ### Back-end
 
 ![80%](https://progress-bar.dev/80) **NodeJS**
+
+
 ![70%](https://progress-bar.dev/70) **Go**
+
+
 ![60%](https://progress-bar.dev/60) **Python**
 
 ### DevOps and others
 
 ![80%](https://progress-bar.dev/80) **Git**
+
+
 ![70%](https://progress-bar.dev/70) **Docker**
+
+
 ![70%](https://progress-bar.dev/70) **Docker-Compose**
+
+
 ![60%](https://progress-bar.dev/60) **Jenkins**
+
+
 ![40%](https://progress-bar.dev/40) **Kubernetes**
 
 ### Cloud Services
 ![60%](https://progress-bar.dev/60) **AWS**
+
+
 ![40%](https://progress-bar.dev/40) **Firebase**
+
+
 ![20%](https://progress-bar.dev/20) **Microsoft Azure**
 
 ### Soft Skills
 ![80%](https://progress-bar.dev/80) **Adaptability**
+
+
 ![75%](https://progress-bar.dev/75) **Project Management**
+
+
 ![75%](https://progress-bar.dev/75) **Scrum Master**
+
+
 ![70%](https://progress-bar.dev/70) **Solution Architecture**
+
+
 ![70%](https://progress-bar.dev/70) **Web/Mobile knowledge**
+
+
 ![65%](https://progress-bar.dev/65) **UX Design**
