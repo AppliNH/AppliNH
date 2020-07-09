@@ -6,9 +6,9 @@
 [💼 Linkedin ](https://www.linkedin.com/in/thomas-martin-348238161/)
 ## 👨‍🎤 About Me
 
-I'm currently 23yo French IT Engineer student.
+I'm a 23yo French IT Engineer student.
 
-I'm interested in various subject such as : 
+I'm interested in various subjects such as : 
 - Mobile / Web dev
 - UX Design
 - Virtualisation
@@ -16,7 +16,7 @@ I'm interested in various subject such as :
 - Scrum
 - Blockchain
 
-... and more generally I give a great importance to everyday techWatch :)
+... and I also generally give a great importance to everyday techWatch :)
 
 I also **love** music (listening, playing, producing), especially rock, new wave, hip-hop and a ton of electro sub-genres.
 
