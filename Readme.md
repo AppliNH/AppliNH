@@ -4,7 +4,7 @@
 [📧 Email me ](mailto:thomas.martin@primitivo.fr)
 
 [💼 Linkedin ](https://www.linkedin.com/in/thomas-martin-348238161/)
-## About Me
+## 👨‍🎤 About Me
 
 I'm currently 23yo French IT Engineer student.
 
@@ -22,7 +22,7 @@ I also **love** music (listening, playing, producing), especially rock, new wave
 
 On 09/2019 I created my first start-up with 3 associates, it's named **Primitivo 🦉**. We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
-## My Stack
+## 👨‍💻 My Stack
 
 Here are several graphs which tend to represent my level of knowledge regarding my favorite techs ;)
 
