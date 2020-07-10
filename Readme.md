@@ -26,7 +26,10 @@ On 09/2019 I created my first start-up with 3 associates, it's named **Primitivo
 
 Here are several graphs which tend to represent my level of knowledge regarding various techs and subjects ;)
 
-### Mobile
+<details>
+  <summary>See more</summary
+
+### 📱 Mobile
 
 ![80%](https://progress-bar.dev/80) **React Native**
 
@@ -36,14 +39,14 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 ![40%](https://progress-bar.dev/40) **Kotlin**
 
-### Front-end
+### 🖌 Front-end
 
 ![70%](https://progress-bar.dev/70) **React**
 
 
 ![60%](https://progress-bar.dev/60) **Angular**
 
-### Back-end
+### 🤖 Back-end
 
 ![80%](https://progress-bar.dev/80) **NodeJS**
 
@@ -53,7 +56,7 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 ![60%](https://progress-bar.dev/60) **Python**
 
-### DevOps and others
+### ⚙ DevOps and others
 
 ![80%](https://progress-bar.dev/80) **Git**
 
@@ -69,7 +72,7 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 ![40%](https://progress-bar.dev/40) **Kubernetes**
 
-### Cloud Services
+### ☁ Cloud Services
 ![60%](https://progress-bar.dev/60) **AWS**
 
 
@@ -78,7 +81,7 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 ![20%](https://progress-bar.dev/20) **Microsoft Azure**
 
-### Soft Skills
+### 👨‍💼 Soft Skills
 ![80%](https://progress-bar.dev/80) **Adaptability**
 
 
@@ -95,3 +98,5 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 
 ![65%](https://progress-bar.dev/65) **UX Design**
+
+</details>
