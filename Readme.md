@@ -29,6 +29,8 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 <details>
   <summary>See more</summary
 
+# 
+
 ### 📱 Mobile
 
 ![80%](https://progress-bar.dev/80) **React Native**
