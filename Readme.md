@@ -20,7 +20,9 @@ I'm interested in various subjects such as :
 
 I also **love** music (listening, playing, producing), especially rock, new wave, hip-hop and a ton of electro sub-genres.
 
-On 09/2019 I created my first start-up with 3 associates, it's named **Primitivo 🦉**. We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
+On 09/2019 I created my first start-up with 3 associates, it's named [**Primitivo 🦉**](https://github.com/PrimitivoFR). 
+
+We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
 ## 👨‍💻 My Skills
 
