@@ -33,35 +33,42 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 ### 📱 Mobile
 
-![80%](https://progress-bar.dev/80) **React Native**
+![80%](https://progress-bar.dev/80) **Flutter**
 
 
-![70%](https://progress-bar.dev/70) **Flutter**
+![75%](https://progress-bar.dev/75) **React Native**
 
 
-![40%](https://progress-bar.dev/40) **Kotlin**
+![60%](https://progress-bar.dev/60) **Kotlin**
 
 ### 🖌 Front-end
 
-![70%](https://progress-bar.dev/70) **React**
+![90%](https://progress-bar.dev/90) **HTML/CSS**
 
 
-![60%](https://progress-bar.dev/60) **Angular**
+![85%](https://progress-bar.dev/85) **JavaScript/TypeScript**
+
+
+![82%](https://progress-bar.dev/82) **React**
+
+
+![70%](https://progress-bar.dev/70) **Angular**
 
 ### 🤖 Back-end
 
-![80%](https://progress-bar.dev/80) **NodeJS**
+![80%](https://progress-bar.dev/80) **Go**
 
 
-![70%](https://progress-bar.dev/70) **Go**
+![75%](https://progress-bar.dev/75) **NodeJS**
 
 
-![60%](https://progress-bar.dev/60) **Python**
+![68%](https://progress-bar.dev/68) **Python**
 
 ### ⚙ DevOps and others
 
 ![80%](https://progress-bar.dev/80) **Git**
 
+![75%](https://progress-bar.dev/75) **GitLab**
 
 ![70%](https://progress-bar.dev/70) **Docker**
 
@@ -75,7 +82,7 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 ![40%](https://progress-bar.dev/40) **Kubernetes**
 
 ### ☁ Cloud Services
-![60%](https://progress-bar.dev/60) **AWS**
+![65%](https://progress-bar.dev/65) **AWS**
 
 
 ![40%](https://progress-bar.dev/40) **Firebase**
