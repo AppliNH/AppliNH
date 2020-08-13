@@ -58,42 +58,44 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 ### 🤖 Back-end
 
-![80%](https://progress-bar.dev/80) **Go**
+![85%](https://progress-bar.dev/85) **Go**
 
 
 ![75%](https://progress-bar.dev/75) **NodeJS**
 
 
-![68%](https://progress-bar.dev/68) **Python**
+![70%](https://progress-bar.dev/70) **Python**
 
 ### ⚙ DevOps and others
 
-![80%](https://progress-bar.dev/80) **Git**
-
-![75%](https://progress-bar.dev/75) **GitLab**
-
-![70%](https://progress-bar.dev/70) **Docker**
+![90%](https://progress-bar.dev/90) **Git**
 
 
-![70%](https://progress-bar.dev/70) **Docker-Compose**
+![85%](https://progress-bar.dev/85) **GitLab**
+
+
+![80%](https://progress-bar.dev/80) **Docker**
+
+
+![75%](https://progress-bar.dev/75) **Swarm & Docker-compose**
 
 
 ![60%](https://progress-bar.dev/60) **Jenkins**
 
 
-![40%](https://progress-bar.dev/40) **Kubernetes**
-
 ### ☁ Cloud Services
+
 ![65%](https://progress-bar.dev/65) **AWS**
 
 
-![40%](https://progress-bar.dev/40) **Firebase**
+![50%](https://progress-bar.dev/50) **Firebase**
 
-
-![20%](https://progress-bar.dev/20) **Microsoft Azure**
 
 ### 👨‍💼 Soft Skills
-![80%](https://progress-bar.dev/80) **Adaptability**
+![90%](https://progress-bar.dev/90) **Adaptability**
+
+
+![80%](https://progress-bar.dev/80) **Web/Mobile knowledge**
 
 
 ![75%](https://progress-bar.dev/75) **Project Management**
@@ -103,9 +105,6 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 
 
 ![70%](https://progress-bar.dev/70) **Solution Architecture**
-
-
-![70%](https://progress-bar.dev/70) **Web/Mobile knowledge**
 
 
 ![65%](https://progress-bar.dev/65) **UX Design**
