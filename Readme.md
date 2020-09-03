@@ -11,7 +11,7 @@ I'm a 23yo French IT Engineer student.
 I'm interested in various subjects such as : 
 - Mobile / Web dev
 - UX Design
-- Virtualisation
+- Solution architecture
 - DevOps
 - Scrum
 - Blockchain
