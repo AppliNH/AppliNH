@@ -105,13 +105,16 @@ Here are several graphs which tend to represent my level of knowledge regarding 
 ![90%](https://progress-bar.dev/90) **Git**
 
 
-![85%](https://progress-bar.dev/85) **GitLab**
+![87%](https://progress-bar.dev/87) **Docker**
 
 
-![80%](https://progress-bar.dev/80) **Docker**
+![85%](https://progress-bar.dev/85) **Swarm & Docker-compose**
 
 
-![75%](https://progress-bar.dev/75) **Swarm & Docker-compose**
+![80%](https://progress-bar.dev/80) **GitLab**
+
+
+![68%](https://progress-bar.dev/68) **Kubernetes**
 
 
 ![60%](https://progress-bar.dev/60) **Jenkins**
