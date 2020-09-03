@@ -47,6 +47,14 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
   <img width=40 />
 </div>
 
+**Databases:**
+<div>
+  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.blogs.es%2F577c8b%2F650_1000_mongo_bumper.sh-600x600%2Foriginal.png&f=1&nofb=1" />
+  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F9143253%2F47912437-f749bc00-de98-11e8-9669-e97f58b8be2e.png&f=1&nofb=1" />
+  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fpostgresql-logo.png&f=1&nofb=1" />
+  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhelloacm.com%2Fwp-content%2Fuploads%2F2017%2F10%2Fmssql.png&f=1&nofb=1" />
+</div>
+
 **DevOps and tools:**
 
 <div>
