@@ -55,6 +55,7 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
   <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fportworx.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fwordpress-kubernetes.png&f=1&nofb=1" />
   <img alt="Gitlab" width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2Fcolor%2FLogos%2Fgitlab1600.png&f=1&nofb=1" />
   <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fjenkins-1-282385.png&f=1&nofb=1" />
+  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwac-cdn.atlassian.com%2Fdam%2Fjcr%3A5fce2102-1f25-4bbd-b46c-df329bd15e86%2FAWS.png%3FcdnVersion%3Djs&f=1&nofb=1" />
 </div>
 
 ## 👨‍💻 My Skills
