@@ -1,7 +1,7 @@
 # 🦉 Welcome | Bienvenue ! 
 
 
-[📧   Email me ](mailto:thomas.martin@primitivo.fr)
+[📧   Email me ](mailto:thomas.martindev@gmail.com)
 
 [💼   Linkedin  ](https://www.linkedin.com/in/thomas-martin-348238161/)
 ## 👨‍🎤 About Me
