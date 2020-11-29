@@ -1,20 +1,22 @@
 # 🦉 Welcome | Bienvenue ! 
 
+[![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/thomas-martin-348238161/)
+[![Gmail Badge](https://img.shields.io/badge/-thomas.martindev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.martindev@gmail.com)](mailto:thomas.martindev@gmail.com)
 
-[📧   Email me ](mailto:thomas.martindev@gmail.com)
-
-[💼   Linkedin  ](https://www.linkedin.com/in/thomas-martin-348238161/)
 ## 👨‍🎤 About Me
 
 I'm a 23yo French IT Engineer student.
 
 I'm interested in various subjects such as : 
-- Mobile / Web dev
-- UX Design
-- Solution architecture
-- DevOps
-- Scrum
-- Blockchain
+
+
+![Mobile dev](https://img.shields.io/badge/-Mobile%20dev-blue?style=for-the-badge)
+![Web dev](https://img.shields.io/badge/-Web%20dev-red?style=for-the-badge)
+![UX Design](https://img.shields.io/badge/-UX%20Desgin-purple?style=for-the-badge)
+![Solution architecture](https://img.shields.io/badge/-Solution%20architecture-yellow?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps-green?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/-Scrum-orange?style=for-the-badge)
+![Finance](https://img.shields.io/badge/-Finance-grey?style=for-the-badge)
 
 ... and I also generally give a great importance to everyday techWatch :)
 
@@ -24,134 +26,50 @@ On 09/2019 I created my first start-up with 3 associates, it's named [**Primitiv
 
 We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
-**Languages:**
-<div>
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fvoodootikigod%2Flogo.js%2Fmaster%2Fjs.png&f=1&nofb=1" />
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*0ei2MOQxAzF7krm-v60wnQ.jpeg&f=1&nofb=1" />
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.codesamplez.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fgolang.png&f=1&nofb=1" />
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Ftinkercademy.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fpython-icon.png%3Fssl%3D1&f=1&nofb=1" />
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpub.dartlang.org%2Fstatic%2Fimg%2Fdart-logo-400x400.png&f=1&nofb=1" />
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fkotlin-1-logo-png-transparent.png&f=1&nofb=1"/>
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tipstoremember.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fnodejs_logo.png&f=1&nofb=1"/>
-</div>
+## My knowledge 🧠💡
+
+- **Main languages 🠚**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![Go](https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=go)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
+![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin)
+
+- **Frameworks 🠚**
+![React](https://img.shields.io/badge/-React%20&%20React%20Native-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
+![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat-square&logo=Flutter)
+![React Native (Expo)](https://img.shields.io/badge/-React%20Native%20(Expo)-black?style=flat-square&logo=Expo)
+![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=NestJS)
+![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)
+![gRPC](https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=google)
 
 
-**Frameworks:**
-<div>
-  <img width=60 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F1200px-React-icon.svg.png&f=1&nofb=1" />
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FAngular_full_color_logo.svg%2F1200px-Angular_full_color_logo.svg.png&f=1&nofb=1"/>
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjuststickers.in%2Fwp-content%2Fuploads%2F2019%2F01%2Fflutter.png&f=1&nofb=1"/> 
-  <img width=40 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.xZbrlKY0WR3ELSSExbROogHaHJ%26pid%3DApi&f=1" />
-  <img width=35 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.seekpng.com%2Fpng%2Fsmall%2F70-701539_flask-flask-python-png.png&f=1&nofb=1" />
-  <img width=60 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevblogs.microsoft.com%2Faspnet%2Fwp-content%2Fuploads%2Fsites%2F16%2F2019%2F11%2Fgrpc-icon-color-1.png&f=1&nofb=1" />
-  <img width=40 />
-</div>
+- **Databases 🠚**
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-**Databases:**
-<div>
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.blogs.es%2F577c8b%2F650_1000_mongo_bumper.sh-600x600%2Foriginal.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F9143253%2F47912437-f749bc00-de98-11e8-9669-e97f58b8be2e.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogonoid.com%2Fimages%2Fpostgresql-logo.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhelloacm.com%2Fwp-content%2Fuploads%2F2017%2F10%2Fmssql.png&f=1&nofb=1" />
-</div>
+- **DevOps and tools 🠚**
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
+![GitLab](https://img.shields.io/badge/-GitLab-green?style=flat-square&logo=GitLab)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins)
+![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon-AWS)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 
-**DevOps and tools:**
+- **... & more 🠚**
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux)
+![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat-square)
+![iOS](https://img.shields.io/badge/-iOS-grey?style=flat-square&logo=apple)
+![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android)
 
-<div>
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.docker.com%2Fsites%2Fdefault%2Ffiles%2Fsocial%2Fdocker_facebook_share.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.couchbase.com%2Fwp-content%2Fuploads%2F2017%2F02%2Fdocker-compose.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fportworx.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fwordpress-kubernetes.png&f=1&nofb=1" />
-  <img alt="Gitlab" width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmaxcdn.icons8.com%2FShare%2Ficon%2Fcolor%2FLogos%2Fgitlab1600.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fjenkins-1-282385.png&f=1&nofb=1" />
-  <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwac-cdn.atlassian.com%2Fdam%2Fjcr%3A5fce2102-1f25-4bbd-b46c-df329bd15e86%2FAWS.png%3FcdnVersion%3Djs&f=1&nofb=1" />
-</div>
+## Misc 🤔
 
-## 👨‍💻 My Skills
-
-Here are several graphs which tend to represent my level of knowledge regarding various techs and subjects ;)
-
-<details>
-  <summary>See more</summary
-
-# 
-
-### 📱 Mobile
-
-![80%](https://progress-bar.dev/80) **Flutter**
-
-
-![75%](https://progress-bar.dev/75) **React Native**
-
-
-![60%](https://progress-bar.dev/60) **Kotlin**
-
-### 🖌 Front-end
-
-![90%](https://progress-bar.dev/90) **HTML/CSS**
-
-
-![85%](https://progress-bar.dev/85) **JavaScript/TypeScript**
-
-
-![82%](https://progress-bar.dev/82) **React**
-
-
-![70%](https://progress-bar.dev/70) **Angular**
-
-### 🤖 Back-end
-
-![85%](https://progress-bar.dev/85) **Go**
-
-
-![75%](https://progress-bar.dev/75) **NodeJS**
-
-
-![70%](https://progress-bar.dev/70) **Python**
-
-### ⚙ DevOps and others
-
-![90%](https://progress-bar.dev/90) **Git**
-
-
-![87%](https://progress-bar.dev/87) **Docker**
-
-
-![85%](https://progress-bar.dev/85) **Swarm & Docker-compose**
-
-
-![80%](https://progress-bar.dev/80) **GitLab**
-
-
-![68%](https://progress-bar.dev/68) **Kubernetes**
-
-
-![60%](https://progress-bar.dev/60) **Jenkins**
-
-
-### ☁ Cloud Services
-
-![65%](https://progress-bar.dev/65) **AWS**
-
-
-![50%](https://progress-bar.dev/50) **Firebase**
-
-
-### 👨‍💼 Soft Skills
-![90%](https://progress-bar.dev/90) **Adaptability**
-
-
-![80%](https://progress-bar.dev/80) **Web/Mobile knowledge**
-
-
-![75%](https://progress-bar.dev/75) **Project Management**
-
-
-![75%](https://progress-bar.dev/75) **Scrum Master**
-
-
-![70%](https://progress-bar.dev/70) **Solution Architecture**
-
-
-![65%](https://progress-bar.dev/65) **UX Design**
-
-</details>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=applinh&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
