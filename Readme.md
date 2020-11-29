@@ -36,8 +36,8 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin)
 
-- **Frameworks 🠚**
-![React](https://img.shields.io/badge/-React%20&%20React%20Native-black?style=flat-square&logo=react)
+- **Frameworks / Libraries 🠚**
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
 ![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat-square&logo=Flutter)
@@ -45,7 +45,8 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=NestJS)
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)
 ![gRPC](https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=google)
-
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
+![Scikit (Machine Learning)](https://img.shields.io/badge/-Scikit%20(Machine%20Learning)-white?style=flat-square&logo=scikit-learn)
 
 - **Databases 🠚**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
