@@ -14,7 +14,7 @@ I'm interested in various subjects such as :
 ![Web dev](https://img.shields.io/badge/-Web%20dev-red?style=for-the-badge)
 ![UX Design](https://img.shields.io/badge/-UX%20Desgin-purple?style=for-the-badge)
 ![Solution architecture](https://img.shields.io/badge/-Solution%20architecture-yellow?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/-DevOps-green?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps-006400?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=for-the-badge)
 ![Finance](https://img.shields.io/badge/-Finance-grey?style=for-the-badge)
 
@@ -33,7 +33,7 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=go)
-![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-006400?style=flat-square&logo=Node.js)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin)
 
 - **Frameworks / Libraries 🠚**
@@ -58,7 +58,7 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
-![GitLab](https://img.shields.io/badge/-GitLab-green?style=flat-square&logo=GitLab)
+![GitLab](https://img.shields.io/badge/-GitLab-006400?style=flat-square&logo=GitLab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=amazon-AWS)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -69,7 +69,7 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux)
 ![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat-square)
 ![iOS](https://img.shields.io/badge/-iOS-grey?style=flat-square&logo=apple)
-![Android](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android)
+![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&logo=Android)
 
 ## Misc 🤔
 
