@@ -61,7 +61,9 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
 #### Server
 
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-006400?style=for-the-badge&logo=ExpressJS)
 ![NestJS](https://img.shields.io/badge/-NestJS-red?style=for-the-badge&logo=NestJS)
+![Gorilla/Mux](https://img.shields.io/badge/-Gorilla%20Mux-007ACC?style=for-the-badge&logo=go)
 ![Flask](https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask)
 ![gRPC](https://img.shields.io/badge/-gRPC-white?style=for-the-badge&logo=google)
 
