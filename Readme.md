@@ -99,8 +99,3 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![iOS](https://img.shields.io/badge/-iOS-grey?style=for-the-badge&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-006400?style=for-the-badge&logo=Android)
 
----
-
-## Misc 🤔
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=applinh&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
