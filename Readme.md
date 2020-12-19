@@ -1,9 +1,11 @@
 # 🦉 Welcome | Bienvenue ! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/thomas-martin-348238161/)
-[![Gmail Badge](https://img.shields.io/badge/-thomas.martindev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.martindev@gmail.com)](mailto:thomas.martindev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/thomas-martin-348238161/)
+[![Gmail Badge](https://img.shields.io/badge/-thomas.martindev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:thomas.martindev@gmail.com)](mailto:thomas.martindev@gmail.com)
 
-## 👨‍🎤 About Me
+
+
+## About Me 👨‍🎤 
 
 I'm a 23yo French IT Engineer student.
 
@@ -26,50 +28,78 @@ On 09/2019 I created my first start-up with 3 associates, it's named [**Primitiv
 
 We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
+---
+
 ## My knowledge 🧠💡
 
-- **Main languages 🠚**
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-C59237?style=flat-square&logo=Python)
-![Go](https://img.shields.io/badge/-Go-1572B6?style=flat-square&logo=go)
-![Nodejs](https://img.shields.io/badge/-Nodejs-006400?style=flat-square&logo=Node.js)
-![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin)
 
-- **Frameworks / Libraries 🠚**
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=Redux)
-![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=flat-square&logo=Flutter)
-![React Native (Expo)](https://img.shields.io/badge/-React%20Native%20(Expo)-black?style=flat-square&logo=Expo)
-![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat-square&logo=NestJS)
-![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)
-![gRPC](https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=google)
-![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
-![Scikit (Machine Learning)](https://img.shields.io/badge/-Scikit%20(Machine%20Learning)-white?style=flat-square&logo=scikit-learn)
 
-- **Databases 🠚**
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+### Main languages
 
-- **DevOps and tools 🠚**
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
-![GitLab](https://img.shields.io/badge/-GitLab-006400?style=flat-square&logo=GitLab)
-![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins)
-![AWS](https://img.shields.io/badge/-AWS-C59237?style=flat-square&logo=amazon-AWS)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-C59237?style=for-the-badge&logo=Python)
+![Go](https://img.shields.io/badge/-Go-1572B6?style=for-the-badge&logo=go)
+![Nodejs](https://img.shields.io/badge/-Nodejs-006400?style=for-the-badge&logo=Node.js)
+![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=for-the-badge&logo=Kotlin)
 
-- **... & more 🠚**
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux)
-![Microservices](https://img.shields.io/badge/-Microservices-blue?style=flat-square)
-![iOS](https://img.shields.io/badge/-iOS-grey?style=flat-square&logo=apple)
-![Android](https://img.shields.io/badge/-Android-006400?style=flat-square&logo=Android)
+---
+
+### Frameworks / Libraries
+
+
+#### Front
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=Redux)
+
+#### Mobile
+
+![Flutter](https://img.shields.io/badge/-Flutter-007ACC?style=for-the-badge&logo=Flutter)
+![React Native (Expo)](https://img.shields.io/badge/-React%20Native%20(Expo)-black?style=for-the-badge&logo=Expo)
+
+#### Server
+
+![NestJS](https://img.shields.io/badge/-NestJS-red?style=for-the-badge&logo=NestJS)
+![Flask](https://img.shields.io/badge/-Flask-grey?style=for-the-badge&logo=flask)
+![gRPC](https://img.shields.io/badge/-gRPC-white?style=for-the-badge&logo=google)
+
+#### Data analysis / ML
+
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=for-the-badge&logo=Pandas)
+![Scikit (Machine Learning)](https://img.shields.io/badge/-Scikit%20(Machine%20Learning)-white?style=for-the-badge&logo=scikit-learn)
+
+---
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+
+---
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=for-the-badge&logo=Kubernetes)
+![GitLab](https://img.shields.io/badge/-GitLab-006400?style=for-the-badge&logo=GitLab)
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=for-the-badge&logo=Jenkins)
+![AWS](https://img.shields.io/badge/-AWS-C59237?style=for-the-badge&logo=amazon-AWS)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
+
+---
+
+### ... & more
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=Linux)
+![Microservices](https://img.shields.io/badge/-Microservices-blue?style=for-the-badge)
+![iOS](https://img.shields.io/badge/-iOS-grey?style=for-the-badge&logo=apple)
+![Android](https://img.shields.io/badge/-Android-006400?style=for-the-badge&logo=Android)
+
+---
 
 ## Misc 🤔
 
