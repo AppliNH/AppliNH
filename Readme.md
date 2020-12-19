@@ -32,8 +32,6 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
 ## My knowledge 🧠💡
 
-
-
 ### Main languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -41,6 +39,8 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![Python](https://img.shields.io/badge/-Python-C59237?style=for-the-badge&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-1572B6?style=for-the-badge&logo=go)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-006400?style=for-the-badge&logo=Node.js)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart)
+
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=for-the-badge&logo=Kotlin)
 
 ---
@@ -101,3 +101,8 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![iOS](https://img.shields.io/badge/-iOS-grey?style=for-the-badge&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-006400?style=for-the-badge&logo=Android)
 
+---
+
+## Currently learning/experimenting : 
+
+![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=Rust)
