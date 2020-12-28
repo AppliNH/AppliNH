@@ -32,7 +32,7 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ---
 
 <details>
-  <summary><b>Want to learn more about me ? Click here ! :)</b></summary>
+  <summary><b>Click here to unroll more details ! :)</b></summary>
 
 
 ## My knowledge 🧠💡
