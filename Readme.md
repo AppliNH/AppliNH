@@ -28,7 +28,12 @@ On 09/2019 I created my first start-up with 3 associates, it's named [**Primitiv
 
 We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
+
 ---
+
+<details>
+  <summary><b>Want to learn more about me ? Click here ! :)</b></summary>
+
 
 ## My knowledge 🧠💡
 
@@ -106,3 +111,5 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ## Currently learning/experimenting : 
 
 ![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=Rust)
+
+</details>
