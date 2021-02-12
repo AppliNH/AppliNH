@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-thomas.martindev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:thomas.martindev@gmail.com)](mailto:thomas.martindev@gmail.com)
 
 
+[![Online CV](https://img.shields.io/badge/-OnlineCV-c14438?style=social&logo=about.me&logoColor=blue&link=mailto:https://me-applinh.netlify.app)](https://me-applinh.netlify.app)
+
 ## About Me 👨‍🎤 
 
 I'm a 23yo French IT Engineer student.
