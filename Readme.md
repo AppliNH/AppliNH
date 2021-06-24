@@ -1,7 +1,6 @@
 # 🦉 Welcome | Bienvenue ! 
 
 [![Telegram Badge](https://img.shields.io/badge/-c14438?style=social&logo=Telegram&logoColor=blue&link=https://t.me/applinh)](https://t.me/applinh)
-[![Whatsapp Badge](https://img.shields.io/badge/-c14438?style=social&logo=Whatsapp&logoColor=green&link=https://api.whatsapp.com/send?phone=33649655776&text=Feel%20free%20to%20ask%20me%20anything%20:%27)](https://api.whatsapp.com/send?phone=33649655776&text=Feel%20free%20to%20ask%20me%20anything%20:%27)
 [![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/thomas-martin-348238161/)
 [![Gmail Badge](https://img.shields.io/badge/-thomas.martindev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:thomas.martindev@gmail.com)](mailto:thomas.martindev@gmail.com)
 
