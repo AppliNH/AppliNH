@@ -2,7 +2,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-c14438?style=social&logo=Telegram&logoColor=blue&link=https://t.me/applinh)](https://t.me/applinh)
 [![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/thomas-martin-348238161/)
-[![Gmail Badge](https://img.shields.io/badge/-thomas.martindev@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:thomas.martindev@gmail.com)](mailto:thomas.martindev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-applinh@protonmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:applinh@protonmail.com)](mailto:applinh@protonmail.com)
 
 
 [![Online CV](https://img.shields.io/badge/-OnlineCV-c14438?style=social&logo=about.me&logoColor=blue&link=mailto:https://me-applinh.netlify.app)](https://me-applinh.netlify.app)
