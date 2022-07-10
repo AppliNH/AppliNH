@@ -7,18 +7,20 @@
 
 [![Online CV](https://img.shields.io/badge/-OnlineCV-c14438?style=social&logo=about.me&logoColor=blue&link=mailto:https://me-applinh.netlify.app)](https://me-applinh.netlify.app)
 
+
+[![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915)
+
 ## About Me 👨‍🎤 
 
-I'm a 24yo French CS Engineer.
+I'm a 25yo French CS Engineer.
 
 I'm interested in various subjects such as : 
 
-
-![Mobile dev](https://img.shields.io/badge/-Mobile%20dev-blue?style=for-the-badge)
-![Web dev](https://img.shields.io/badge/-Web%20dev-red?style=for-the-badge)
-![UX Design](https://img.shields.io/badge/-UX%20Desgin-purple?style=for-the-badge)
 ![Solution architecture](https://img.shields.io/badge/-Solution%20architecture-C59237?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/-Cloud-red?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/-DevOps-006400?style=for-the-badge)
+![Web & Mobile dev](https://img.shields.io/badge/Web%20&%20Mobile%20dev-blue?style=for-the-badge)
+![UX Design](https://img.shields.io/badge/-UX%20Desgin-purple?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/-Scrum-orange?style=for-the-badge)
 ![Finance](https://img.shields.io/badge/-Finance-grey?style=for-the-badge)
 
@@ -41,14 +43,15 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
 ### Main languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-C59237?style=for-the-badge&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-1572B6?style=for-the-badge&logo=go)
-![Nodejs](https://img.shields.io/badge/-Nodejs-006400?style=for-the-badge&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-C59237?style=for-the-badge&logo=Python)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=Dart)
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=for-the-badge&logo=Kotlin)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=typescript)
+**+**
+![Nodejs](https://img.shields.io/badge/-Nodejs-006400?style=for-the-badge&logo=Node.js)
+
+
 
 ---
 
@@ -85,16 +88,27 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 ---
 
 ### Tools
+
+
+
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=for-the-badge&logo=Kubernetes)
 ![GitLab](https://img.shields.io/badge/-GitLab-006400?style=for-the-badge&logo=GitLab)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=for-the-badge&logo=Jenkins)
+
+![Ansible](https://img.shields.io/badge/-Ansible-red?style=for-the-badge&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-purple?style=for-the-badge&logo=terraform)
+![Packer](https://img.shields.io/badge/-Packer-white?style=for-the-badge&logo=packer)
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=for-the-badge&logo=Kubernetes)
+
+![Azure](https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=microsoft-azure)
 ![AWS](https://img.shields.io/badge/-AWS-C59237?style=for-the-badge&logo=amazon-AWS)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
@@ -103,8 +117,15 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
 ### ... & more
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Linux](https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=Linux)
-![Microservices](https://img.shields.io/badge/-Microservices-blue?style=for-the-badge)
+![REST](https://img.shields.io/badge/-REST-FFA633?style=for-the-badge&logo=statuspage)
+![HTTP2 gRPC](https://img.shields.io/badge/-HTTP2%20gRPC-grey?style=for-the-badge&logo=google)
+
+![Microservices](https://img.shields.io/badge/-Microservices-blue?style=for-the-badge&logo=tableau)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-525DDC?style=for-the-badge&logo=leanpub)
+![Swagger](https://img.shields.io/badge/-Swagger-white?style=for-the-badge&logo=swagger)
+
+
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 ![iOS](https://img.shields.io/badge/-iOS-grey?style=for-the-badge&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-006400?style=for-the-badge&logo=Android)
 
@@ -112,6 +133,6 @@ We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
 
 ## Currently learning/experimenting : 
 
-![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=Rust)
+![CKA Certification](https://img.shields.io/badge/-CKA%20Certification-white?style=for-the-badge&logo=Kubernetes)
 
 </details>
