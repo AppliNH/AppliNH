@@ -9,10 +9,11 @@
 
 
 [![AZ-900 Certified](https://img.shields.io/badge/-AZ%20900%20Certified-blue?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/a0b37337-5e0d-4074-a4c7-36ace2b3b915)
+[![CKA Certified](https://img.shields.io/badge/-CKA%20Certified-white?style=for-the-badge&logo=kubernetes)](https://www.credly.com/earner/earned/badge/799e4d84-183a-482c-8f8a-5c9068c41d4d)
 
 ## About Me 👨‍🎤 
 
-I'm a 25yo French CS Engineer.
+I'm a 26yo French CS Engineer.
 
 I'm interested in various subjects such as : 
 
@@ -31,6 +32,8 @@ I also **love** music (listening, playing, producing), especially rock, new wave
 On 09/2019 I created my first start-up with 3 associates, it's named [**Primitivo 🦉**](https://github.com/PrimitivoFR). 
 
 We deployed 3 apps in production, [here's one of them.](https://circlebar.fr)
+
+Now I'm working as a Cloud Engineer at [Respond.io](https://github.com/respond-io)
 
 
 ---
