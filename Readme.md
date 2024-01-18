@@ -31,7 +31,7 @@ I also **love** music (listening, playing, producing), especially rock, new wave
 
 On 09/2019 I created my first start-up with 3 associates: [**Primitivo 🦉**](https://github.com/PrimitivoFR). 
 
-Now I'm working as a Cloud Engineer at [Respond.io](https://github.com/respond-io)
+Now I'm working as a SRE at [Qonto](https://qonto.com)
 
 
 ---
