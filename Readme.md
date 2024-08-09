@@ -13,7 +13,7 @@
 
 ## About Me 👨‍🎤 
 
-I'm a 26yo French CS Engineer.
+I'm a 27yo French CS Engineer.
 
 I'm interested in various subjects such as : 
 
