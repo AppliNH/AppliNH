@@ -13,7 +13,7 @@
 
 ## About Me 👨‍🎤 
 
-I'm a 27yo French Site Reliability & Software Engineer.
+I'm a 27yo _french_ Site Reliability & Software Engineer.
 
 I'm interested in various subjects such as : 
 
