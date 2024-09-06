@@ -134,6 +134,7 @@ Now I'm working as a SRE at [Qonto](https://qonto.com)
 
 ## Currently learning/experimenting : 
 
-![CKA Certification](https://img.shields.io/badge/-CKA%20Certification-white?style=for-the-badge&logo=Kubernetes)
+![Prometheus](https://img.shields.io/badge/-Prometheus-white?style=for-the-badge&logo=prometheus)
+![Kafka](https://img.shields.io/badge/-Kafka-grey?style=for-the-badge&logo=apachekafka)
 
 </details>
