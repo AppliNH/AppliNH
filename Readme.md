@@ -122,7 +122,7 @@ Now I'm working as a SRE at [Qonto](https://qonto.com)
 ![HTTP2 gRPC](https://img.shields.io/badge/-HTTP2%20gRPC-grey?style=for-the-badge&logo=google)
 
 ![Microservices](https://img.shields.io/badge/-Microservices-blue?style=for-the-badge&logo=tableau)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-525DDC?style=for-the-badge&logo=leanpub)
+![Domain Driven Design](https://img.shields.io/badge/-Domain%20Driven%20Design-525DDC?style=for-the-badge&logo=leanpub)
 ![Swagger](https://img.shields.io/badge/-Swagger-white?style=for-the-badge&logo=swagger)
 
 
