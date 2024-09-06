@@ -123,7 +123,7 @@ Now I'm working as a SRE at [Qonto](https://qonto.com)
 
 ![Microservices](https://img.shields.io/badge/-Microservices-blue?style=for-the-badge&logo=tableau)
 ![Domain Driven Design](https://img.shields.io/badge/-Domain%20Driven%20Design-525DDC?style=for-the-badge&logo=leanpub)
-![Swagger](https://img.shields.io/badge/-Swagger-white?style=for-the-badge&logo=swagger)
+![Event Driven](https://img.shields.io/badge/-Event%20Driven-white?style=for-the-badge&logo=eventstore)
 
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
