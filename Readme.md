@@ -1,7 +1,7 @@
 # 🦉 Welcome | Bienvenue ! 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/thomas-martin-348238161/)
+[![Linkedin Badge](https://img.shields.io/badge/-Thomas%20Martin-c14438?style=social&logo=square&logoColor=blue&link=https://www.linkedin.com/in/tmartin-me/)](https://www.linkedin.com/in/tmartin-me/)
 [![Gmail Badge](https://img.shields.io/badge/-applinh@protonmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:applinh@protonmail.com)](mailto:applinh@protonmail.com)
 
 
