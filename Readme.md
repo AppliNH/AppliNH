@@ -15,7 +15,7 @@
 
 I'm a 27yo _french_ Site Reliability & Software Engineer.
 
-I'm interested in various subjects such as :mp
+I'm interested in various subjects such as :mpii
 
 ![Solution architecture](https://img.shields.io/badge/-Solution%20architecture-C59237?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/-Cloud-red?style=for-the-badge)
